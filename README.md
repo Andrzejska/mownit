@@ -1,6 +1,6 @@
 # MOWNIT WIET
 Computation Methods for Science and Technology AGH UST   
-1. [Badanie liczb zmiennoprzecinkowych i ich komputerowej reprezentacji(mownit-lab1.ipynb)  
+1. [Badanie liczb zmiennoprzecinkowych i ich komputerowej reprezentacji](mownit-lab1.ipynb)  
 2. [Algebra liniowa z wykorzystaniem biblioteki numpy/scipy](mownit-lab2.ipynb)  
 3. [Podstawowe metody interpolacji](mownit-lab3.ipynb)  
 4. [Interpolacja Hermitta i funkcjami sklejanymi](mownit-lab4.ipynb)  
