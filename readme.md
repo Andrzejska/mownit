@@ -12,5 +12,5 @@ Computation Methods for Science and Technology AGH UST
 10. [Rozwiązywanie układów równań liniowych cd.](mownit-lab10.ipynb)  
 11. [Rozwiązywanie układów równań liniowych - metody iteracyjne](mownit-lab11.ipynb)  
 12. [Praktyczne zastosowanie metod rozwiązywania układów równań liniowych](mownit-lab12.ipynb)  
-13. [Generatory liczb pseudolosowych i metoda całkowania Monte CarloStrona](mownit-lab13.ipynb)
-14. [Szybka transformata FourieraStrona](mownit-lab14.ipynb)
+13. [Generatory liczb pseudolosowych i metoda całkowania Monte Carlo](mownit-lab13.ipynb)
+14. [Szybka transformata Fouriera](mownit-lab14.ipynb)
